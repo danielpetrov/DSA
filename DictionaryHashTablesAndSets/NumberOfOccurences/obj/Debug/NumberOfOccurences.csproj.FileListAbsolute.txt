@@ -1,0 +1,6 @@
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\NumberOfOccurences\bin\Debug\NumberOfOccurences.exe.config
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\NumberOfOccurences\bin\Debug\NumberOfOccurences.exe
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\NumberOfOccurences\bin\Debug\NumberOfOccurences.pdb
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\NumberOfOccurences\obj\Debug\NumberOfOccurences.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\NumberOfOccurences\obj\Debug\NumberOfOccurences.exe
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\NumberOfOccurences\obj\Debug\NumberOfOccurences.pdb

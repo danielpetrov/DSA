@@ -1,0 +1,5 @@
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\NumbersThatOccurOddNumberOfTimes\bin\Debug\NumbersThatOccurOddNumberOfTimes.exe.config
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\NumbersThatOccurOddNumberOfTimes\bin\Debug\NumbersThatOccurOddNumberOfTimes.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\NumbersThatOccurOddNumberOfTimes\bin\Debug\NumbersThatOccurOddNumberOfTimes.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\NumbersThatOccurOddNumberOfTimes\obj\Debug\NumbersThatOccurOddNumberOfTimes.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\NumbersThatOccurOddNumberOfTimes\obj\Debug\NumbersThatOccurOddNumberOfTimes.pdb

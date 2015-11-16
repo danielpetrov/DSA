@@ -1,0 +1,5 @@
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\HowManyTimesAllOccur\bin\Debug\HowManyTimesAllOccur.exe.config
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\HowManyTimesAllOccur\bin\Debug\HowManyTimesAllOccur.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\HowManyTimesAllOccur\bin\Debug\HowManyTimesAllOccur.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\HowManyTimesAllOccur\obj\Debug\HowManyTimesAllOccur.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\HowManyTimesAllOccur\obj\Debug\HowManyTimesAllOccur.pdb

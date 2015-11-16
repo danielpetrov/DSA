@@ -1,0 +1,6 @@
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\Task2\bin\Debug\Task2.exe.config
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\Task2\bin\Debug\Task2.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\Task2\bin\Debug\Task2.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\Task2\obj\Debug\ReverseUsingStack.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\Task2\obj\Debug\Task2.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\Task2\obj\Debug\Task2.pdb

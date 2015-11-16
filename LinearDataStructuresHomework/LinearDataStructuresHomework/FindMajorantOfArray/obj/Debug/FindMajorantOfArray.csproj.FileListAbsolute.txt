@@ -1,0 +1,5 @@
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\FindMajorantOfArray\bin\Debug\FindMajorantOfArray.exe.config
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\FindMajorantOfArray\bin\Debug\FindMajorantOfArray.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\FindMajorantOfArray\bin\Debug\FindMajorantOfArray.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\FindMajorantOfArray\obj\Debug\FindMajorantOfArray.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\FindMajorantOfArray\obj\Debug\FindMajorantOfArray.pdb

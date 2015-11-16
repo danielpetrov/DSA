@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresEfficiencyLibraly", "DataStructuresEfficiencyLibraly\DataStructuresEfficiencyLibraly.csproj", "{2FBA5A01-D6B3-4E1D-B80E-8E69C9DCA4EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient", "ConsoleClient\ConsoleClient.csproj", "{C93F3E2B-AA72-44AA-95BF-A199EBAF332C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FBA5A01-D6B3-4E1D-B80E-8E69C9DCA4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBA5A01-D6B3-4E1D-B80E-8E69C9DCA4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBA5A01-D6B3-4E1D-B80E-8E69C9DCA4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBA5A01-D6B3-4E1D-B80E-8E69C9DCA4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93F3E2B-AA72-44AA-95BF-A199EBAF332C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93F3E2B-AA72-44AA-95BF-A199EBAF332C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93F3E2B-AA72-44AA-95BF-A199EBAF332C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93F3E2B-AA72-44AA-95BF-A199EBAF332C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

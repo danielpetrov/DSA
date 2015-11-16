@@ -1,0 +1,6 @@
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\RemoveAllNegativeNumbers\bin\Debug\RemoveAllNegativeNumbers.exe.config
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\RemoveAllNegativeNumbers\bin\Debug\RemoveAllNegativeNumbers.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\RemoveAllNegativeNumbers\bin\Debug\RemoveAllNegativeNumbers.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\RemoveAllNegativeNumbers\obj\Debug\RemoveAllNegativeNumbers.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\RemoveAllNegativeNumbers\obj\Debug\RemoveAllNegativeNumbers.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\RemoveAllNegativeNumbers\obj\Debug\RemoveAllNegativeNumbers.csprojResolveAssemblyReference.cache

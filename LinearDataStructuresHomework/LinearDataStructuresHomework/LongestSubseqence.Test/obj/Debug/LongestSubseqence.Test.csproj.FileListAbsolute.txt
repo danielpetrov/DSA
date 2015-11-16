@@ -1,0 +1,9 @@
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\obj\Debug\LongestSubseqence.Test.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\bin\Debug\LongestSubseqence.Test.dll
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\bin\Debug\LongestSubseqence.Test.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\bin\Debug\LongestSubseqence.dll
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\bin\Debug\LongestSubseqence.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\obj\Debug\LongestSubseqence.Test.dll
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\LongestSubseqence.Test\obj\Debug\LongestSubseqence.Test.pdb

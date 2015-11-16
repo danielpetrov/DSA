@@ -1,0 +1,6 @@
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\ReadSequenceOfIntegersFromConsole\bin\Debug\ReadSequenceOfIntegersFromConsole.exe.config
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\ReadSequenceOfIntegersFromConsole\bin\Debug\ReadSequenceOfIntegersFromConsole.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\ReadSequenceOfIntegersFromConsole\bin\Debug\ReadSequenceOfIntegersFromConsole.pdb
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\ReadSequenceOfIntegersFromConsole\obj\Debug\ReadSequenceOfIntegersFromConsole.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\ReadSequenceOfIntegersFromConsole\obj\Debug\ReadSequenceOfIntegersFromConsole.exe
+C:\Users\daniel\Desktop\[DSA]\LinearDataStructuresHomework\LinearDataStructuresHomework\ReadSequenceOfIntegersFromConsole\obj\Debug\ReadSequenceOfIntegersFromConsole.pdb

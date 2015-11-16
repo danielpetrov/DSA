@@ -1,0 +1,6 @@
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\OddOccurencesOfString\bin\Debug\OddOccurencesOfString.exe.config
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\OddOccurencesOfString\bin\Debug\OddOccurencesOfString.exe
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\OddOccurencesOfString\bin\Debug\OddOccurencesOfString.pdb
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\OddOccurencesOfString\obj\Debug\OddOccurencesOfString.exe
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\OddOccurencesOfString\obj\Debug\OddOccurencesOfString.pdb
+C:\Users\daniel\Desktop\[DSA]\JediMeditation\JediMeditation\DictionaryHashTablesAndSets\OddOccurencesOfString\obj\Debug\OddOccurencesOfString.csprojResolveAssemblyReference.cache

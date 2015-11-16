@@ -1,0 +1,8 @@
+C:\Users\daniel\Desktop\[DSA]\AdvancedDataStructures\AdvancedDataStructures\OrderedBagRange\bin\Debug\OrderedBagRange.exe.config
+C:\Users\daniel\Desktop\[DSA]\AdvancedDataStructures\AdvancedDataStructures\OrderedBagRange\bin\Debug\OrderedBagRange.exe
+C:\Users\daniel\Desktop\[DSA]\AdvancedDataStructures\AdvancedDataStructures\OrderedBagRange\bin\Debug\OrderedBagRange.pdb
+C:\Users\daniel\Desktop\[DSA]\AdvancedDataStructures\AdvancedDataStructures\OrderedBagRange\bin\Debug\PowerCollections.dll
+C:\Users\daniel\Desktop\[DSA]\AdvancedDataStructures\AdvancedDataStructures\OrderedBagRange\bin\Debug\PowerCollections.xml
+C:\Users\daniel\Desktop\[DSA]\AdvancedDataStructures\AdvancedDataStructures\OrderedBagRange\obj\Debug\OrderedBagRange.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\AdvancedDataStructures\AdvancedDataStructures\OrderedBagRange\obj\Debug\OrderedBagRange.exe
+C:\Users\daniel\Desktop\[DSA]\AdvancedDataStructures\AdvancedDataStructures\OrderedBagRange\obj\Debug\OrderedBagRange.pdb
