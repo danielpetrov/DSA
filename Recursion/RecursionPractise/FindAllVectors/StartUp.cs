@@ -1,9 +1,11 @@
-﻿namespace FindAllVectors
+﻿namespace StartUp
 {
     using System;
     using RecursionPractiseLibraly.Combinations;
     using System.Diagnostics;
     using RecursionPractiseLibraly.QeenProblem;
+    using RecursionPractiseLibraly.Labirinth;
+
     public class StartUp
     {
         static void Main()
@@ -26,10 +28,10 @@
             //allCombinationsWithDuplex.GenerateAllCombinationsWithDuplex(new int[k], 1, n);
 
             //Task 3 from homework
-            int n = 6;
-            int k = 2;
-            Combinations allCombinationsWithoutDuplex = new Combinations();
-            allCombinationsWithoutDuplex.GenerateAllCombinationsWithoutDuplex(new int[k], 1, n);
+            //int n = 6;
+            //int k = 2;
+            //Combinations allCombinationsWithoutDuplex = new Combinations();
+            //allCombinationsWithoutDuplex.GenerateAllCombinationsWithoutDuplex(new int[k], 1, n);
 
             //Task 11 Qeen problem 
             //int size = 12;
@@ -37,9 +39,15 @@
             //QueenProblem qeenProblem = new QueenProblem(size);
             //qeenProblem.SolveQueenProblem();
 
-            //stopwatch.Stop();
+            //FindAllPathsInLabirinth
+            Labirinth labirinth = new Labirinth();
+            labirinth.FindAllPathsInLabirinth(0, 0);
 
-            //Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
+            
+
+            stopwatch.Stop();
+
+            Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
 
             //Task 1 print on console
             //Console.WriteLine(allVectors);
@@ -48,7 +56,7 @@
             //Console.WriteLine(allCombinationsWithDuplex);
 
             //Task 3 print on console
-            Console.WriteLine(allCombinationsWithoutDuplex);
+            //Console.WriteLine(allCombinationsWithoutDuplex);
 
             //Task 11 print on console
             //Console.WriteLine(qeenProblem.count);

@@ -1,0 +1,5 @@
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\Trees\bin\Debug\Trees.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\Trees\bin\Debug\Trees.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\Trees\obj\Debug\Trees.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\Trees\obj\Debug\Trees.pdb

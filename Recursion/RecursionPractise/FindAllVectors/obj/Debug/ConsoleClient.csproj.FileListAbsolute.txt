@@ -6,3 +6,11 @@ C:\Users\daniel\Desktop\[DSA]\Recursion\RecursionPractise\FindAllVectors\bin\Deb
 C:\Users\daniel\Desktop\[DSA]\Recursion\RecursionPractise\FindAllVectors\bin\Debug\RecursionPractiseLibraly.dll
 C:\Users\daniel\Desktop\[DSA]\Recursion\RecursionPractise\FindAllVectors\bin\Debug\RecursionPractiseLibraly.pdb
 C:\Users\daniel\Desktop\[DSA]\Recursion\RecursionPractise\FindAllVectors\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\FindAllVectors\bin\Debug\FindAllVectors.exe.config
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\FindAllVectors\obj\Debug\FindAllVectors.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\FindAllVectors\obj\Debug\FindAllVectors.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\FindAllVectors\bin\Debug\FindAllVectors.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\FindAllVectors\bin\Debug\FindAllVectors.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\FindAllVectors\bin\Debug\RecursionPractiseLibraly.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\FindAllVectors\bin\Debug\RecursionPractiseLibraly.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\FindAllVectors\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache

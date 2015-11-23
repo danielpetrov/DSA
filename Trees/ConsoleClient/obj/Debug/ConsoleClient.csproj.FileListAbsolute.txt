@@ -1,0 +1,8 @@
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\ConsoleClient\bin\Debug\Trees.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\ConsoleClient\bin\Debug\Trees.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\Trees\ConsoleClient\obj\Debug\ConsoleClient.pdb

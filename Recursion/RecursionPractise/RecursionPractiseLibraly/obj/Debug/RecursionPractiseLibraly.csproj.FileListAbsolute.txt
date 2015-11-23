@@ -3,3 +3,8 @@ C:\Users\daniel\Desktop\[DSA]\Recursion\RecursionPractise\RecursionPractiseLibra
 C:\Users\daniel\Desktop\[DSA]\Recursion\RecursionPractise\RecursionPractiseLibraly\obj\Debug\RecursionPractiseLibraly.csprojResolveAssemblyReference.cache
 C:\Users\daniel\Desktop\[DSA]\Recursion\RecursionPractise\RecursionPractiseLibraly\obj\Debug\RecursionPractiseLibraly.dll
 C:\Users\daniel\Desktop\[DSA]\Recursion\RecursionPractise\RecursionPractiseLibraly\obj\Debug\RecursionPractiseLibraly.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\RecursionPractiseLibraly\bin\Debug\RecursionPractiseLibraly.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\RecursionPractiseLibraly\bin\Debug\RecursionPractiseLibraly.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\RecursionPractiseLibraly\obj\Debug\RecursionPractiseLibraly.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\RecursionPractiseLibraly\obj\Debug\RecursionPractiseLibraly.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\Recursion\RecursionPractise\RecursionPractiseLibraly\obj\Debug\RecursionPractiseLibraly.pdb
