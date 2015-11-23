@@ -6,7 +6,7 @@
     using System.Text;
     using System.Threading.Tasks;
 
-    internal class Program
+    internal class StartUp
     {
         internal static void Main(string[] args)
         {

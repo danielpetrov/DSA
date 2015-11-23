@@ -1,1 +1,6 @@
 C:\Users\daniel\Desktop\[DSA]\DSA\SortingAndSearchingAlgorithms\bin\Debug\SortingHomework.exe.config
+C:\Users\daniel\Desktop\[DSA]\DSA\SortingAndSearchingAlgorithms\bin\Debug\SortingHomework.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\SortingAndSearchingAlgorithms\bin\Debug\SortingHomework.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\SortingAndSearchingAlgorithms\obj\Debug\SortingHomework.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\DSA\SortingAndSearchingAlgorithms\obj\Debug\SortingHomework.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\SortingAndSearchingAlgorithms\obj\Debug\SortingHomework.pdb
