@@ -7,28 +7,35 @@
     using DataStructuresEfficiencyLibraly.Students;
     using Wintellect.PowerCollections;
     using DataStructuresEfficiencyLibraly.Company;
+    using System.Diagnostics;
     public class ConsoleClient
     {
         public static void Main()
         {
-            //var coursesAndStudents = BuildCoursesAndStudents();
+            Stopwatch sw = new Stopwatch();
+
+            sw.Start();
+            var coursesAndStudents = BuildCoursesAndStudents();
+            sw.Stop();
+            Console.WriteLine(sw.Elapsed);
             //PrintCoursesAndStudents(coursesAndStudents);
+           
+            //const decimal StartSearchPrice = 6.05m;
+            //const decimal EndSearchPrice = 7.05m;
+            //var allArticlesOrderedByTheirPrices = BuildCompany();
 
-            const decimal StartSearchPrice = 6.05m;
-            const decimal EndSearchPrice = 7.05m;
-            var allArticlesOrderedByTheirPrices = BuildCompany();
+            //var firstTwentyInRange = allArticlesOrderedByTheirPrices.
+            //   Range(StartSearchPrice, true, EndSearchPrice, true).
+            //   Take(20).
+            //   ToList();
 
-            var firstTwentyInRange = allArticlesOrderedByTheirPrices.
-               Range(StartSearchPrice, true, EndSearchPrice, true).
-               Take(20).
-               ToList();
-
-            foreach (var item in firstTwentyInRange)
-            {
-                Console.WriteLine(item);
-            }
+            //foreach (var item in firstTwentyInRange)
+            //{
+            //    Console.WriteLine(item);
+            //}
         }
 
+       
         
         public static OrderedMultiDictionary<decimal, Article> BuildCompany()
         {

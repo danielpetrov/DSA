@@ -22,10 +22,10 @@
             //allVectors.GenerateVectors(new int[k], n);
 
             //Task 2 from homework
-            //int n = 3;
-            //int k = n;
-            //Combinations allCombinationsWithDuplex = new Combinations();
-            //allCombinationsWithDuplex.GenerateAllCombinationsWithDuplex(new int[k], 1, n);
+            int n = 3;
+            int k = n;
+            Combinations allCombinationsWithDuplex = new Combinations();
+            allCombinationsWithDuplex.GenerateAllCombinationsWithDuplex(new int[k], 1, n);
 
             //Task 3 from homework
             //int n = 6;
@@ -40,20 +40,20 @@
             //qeenProblem.SolveQueenProblem();
 
             //FindAllPathsInLabirinth
-            Labirinth labirinth = new Labirinth();
-            labirinth.FindAllPathsInLabirinth(0, 0);
+           // Labirinth labirinth = new Labirinth();
+            //labirinth.FindAllPathsInLabirinth(0, 0);
 
             
 
-            stopwatch.Stop();
+           // stopwatch.Stop();
 
-            Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
+           // Console.WriteLine("Time elapsed: {0}", stopwatch.Elapsed);
 
             //Task 1 print on console
             //Console.WriteLine(allVectors);
 
             //Task 2 print on console
-            //Console.WriteLine(allCombinationsWithDuplex);
+            Console.WriteLine(allCombinationsWithDuplex);
 
             //Task 3 print on console
             //Console.WriteLine(allCombinationsWithoutDuplex);

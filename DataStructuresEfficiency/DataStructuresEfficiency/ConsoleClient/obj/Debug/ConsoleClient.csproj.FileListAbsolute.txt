@@ -8,3 +8,13 @@ C:\Users\daniel\Desktop\[DSA]\DataStructuresEfficiency\DataStructuresEfficiency\
 C:\Users\daniel\Desktop\[DSA]\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\obj\Debug\ConsoleClient.pdb
 C:\Users\daniel\Desktop\[DSA]\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\PowerCollections.dll
 C:\Users\daniel\Desktop\[DSA]\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\PowerCollections.xml
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\obj\Debug\ConsoleClient.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\obj\Debug\ConsoleClient.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\ConsoleClient.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\ConsoleClient.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\DataStructuresEfficiencyLibraly.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\PowerCollections.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\DataStructuresEfficiencyLibraly.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\bin\Debug\PowerCollections.xml
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache

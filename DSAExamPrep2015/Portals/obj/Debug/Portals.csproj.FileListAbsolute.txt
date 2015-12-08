@@ -1,0 +1,6 @@
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\bin\Debug\Portals.exe.config
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\bin\Debug\Portals.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\bin\Debug\Portals.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\obj\Debug\Portals.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\obj\Debug\Portals.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\obj\Debug\Portals.pdb

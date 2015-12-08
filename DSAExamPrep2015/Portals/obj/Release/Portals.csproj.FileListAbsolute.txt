@@ -1,0 +1,5 @@
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\bin\Release\Portals.exe.config
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\bin\Release\Portals.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\bin\Release\Portals.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\obj\Release\Portals.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\DSAExamPrep2015\Portals\obj\Release\Portals.pdb

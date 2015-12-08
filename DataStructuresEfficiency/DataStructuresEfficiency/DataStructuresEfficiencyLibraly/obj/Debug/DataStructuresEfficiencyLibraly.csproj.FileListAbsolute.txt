@@ -3,3 +3,8 @@ C:\Users\daniel\Desktop\[DSA]\DataStructuresEfficiency\DataStructuresEfficiency\
 C:\Users\daniel\Desktop\[DSA]\DataStructuresEfficiency\DataStructuresEfficiency\DataStructuresEfficiencyLibraly\obj\Debug\DataStructuresEfficiencyLibraly.csprojResolveAssemblyReference.cache
 C:\Users\daniel\Desktop\[DSA]\DataStructuresEfficiency\DataStructuresEfficiency\DataStructuresEfficiencyLibraly\obj\Debug\DataStructuresEfficiencyLibraly.dll
 C:\Users\daniel\Desktop\[DSA]\DataStructuresEfficiency\DataStructuresEfficiency\DataStructuresEfficiencyLibraly\obj\Debug\DataStructuresEfficiencyLibraly.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\DataStructuresEfficiencyLibraly\bin\Debug\DataStructuresEfficiencyLibraly.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\DataStructuresEfficiencyLibraly\bin\Debug\DataStructuresEfficiencyLibraly.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\DataStructuresEfficiencyLibraly\obj\Debug\DataStructuresEfficiencyLibraly.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\DataStructuresEfficiencyLibraly\obj\Debug\DataStructuresEfficiencyLibraly.dll
+C:\Users\daniel\Desktop\[DSA]\DSA\DataStructuresEfficiency\DataStructuresEfficiency\DataStructuresEfficiencyLibraly\obj\Debug\DataStructuresEfficiencyLibraly.pdb

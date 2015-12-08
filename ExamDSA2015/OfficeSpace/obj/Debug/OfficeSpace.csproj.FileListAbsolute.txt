@@ -1,0 +1,6 @@
+C:\Users\daniel\Desktop\[DSA]\DSA\ExamDSA2015\OfficeSpace\bin\Debug\OfficeSpace.exe.config
+C:\Users\daniel\Desktop\[DSA]\DSA\ExamDSA2015\OfficeSpace\bin\Debug\OfficeSpace.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\ExamDSA2015\OfficeSpace\bin\Debug\OfficeSpace.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\ExamDSA2015\OfficeSpace\obj\Debug\OfficeSpace.exe
+C:\Users\daniel\Desktop\[DSA]\DSA\ExamDSA2015\OfficeSpace\obj\Debug\OfficeSpace.pdb
+C:\Users\daniel\Desktop\[DSA]\DSA\ExamDSA2015\OfficeSpace\obj\Debug\OfficeSpace.csprojResolveAssemblyReference.cache
